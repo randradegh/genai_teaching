@@ -3,4 +3,6 @@
 ## Introducción
 El sitio contiene las instrucciones para inscribirse al curso.
 
+Debo mejorar este README
+
 
